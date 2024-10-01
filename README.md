@@ -34,7 +34,7 @@ I'm a web designer passionate about creating beautiful, intuitive, and efficient
 
 ---
 
-## 📂 Current Projects
+##  Current Projects
 
 - **Ticktr**: Ticket resseling made easy, a powerful tool that complements the automatic process of ticket resseling.
 
@@ -43,7 +43,7 @@ I'm a web designer passionate about creating beautiful, intuitive, and efficient
 ![a852c2deb760503c036971cac69354d7](https://github.com/user-attachments/assets/504abb63-cbd6-40b0-b903-c314090fc67e)
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 - **Discord:** **saintgotrich**
 - **Email:** saintgotrich@gmail.com
