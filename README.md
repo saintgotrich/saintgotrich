@@ -25,12 +25,6 @@ I'm a web designer passionate about creating beautiful, intuitive, and efficient
 - <img src="https://github.com/user-attachments/assets/86394605-ff76-45d6-bfe4-bc0befac57ec"    
      width="70" 
      height="70" />
-     
-![tenor](https://github.com/user-attachments/assets/0828fe7d-2ede-4114-ad9f-5e2c7812ce1f)
-
-- **Version Control:**
-  - ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -49,3 +43,5 @@ I'm a web designer passionate about creating beautiful, intuitive, and efficient
 - **Email:** saintgotrich@gmail.com
 
 ---
+
+![tenor](https://github.com/user-attachments/assets/0828fe7d-2ede-4114-ad9f-5e2c7812ce1f)
